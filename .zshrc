@@ -10,10 +10,10 @@ export ZSH="/home/kscr/.oh-my-zsh"
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 
-Uncomment the following line to automatically update without prompting.
+# Automatically update without prompting.
 DISABLE_UPDATE_PROMPT="true"
 
-Uncomment the following line to change how often to auto-update (in days).
+# Automatically update every 5 days
 export UPDATE_ZSH_DAYS=5
 
 # Which plugins would you like to load?
